@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Catedral/Saved/Logs/Catedral.log
+Catedral/Saved/Config/Windows/Engine.ini
+Catedral/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Catedral/Saved/AutoScreenshot.png
+Catedral/Intermediate/CachedAssetRegistry.bin
